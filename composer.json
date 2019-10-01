@@ -9,6 +9,12 @@
             "email": "namamukw10@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/pleaseframe/please"
+        }
+    ],
     "require": {
         "php": "^7.1.3",
         "ext-ctype": "*",
