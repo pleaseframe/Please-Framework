@@ -7,7 +7,7 @@
 Use the package manager [composer](https://getcomposer.org) to install **Please**.
 
 ```bash
-git clone https://github.com/pleaseframe/Please-Framework.git
+git clone https://github.com/pleaseframe/please.git
 cd Please-Framework/
 composer install
 ```
